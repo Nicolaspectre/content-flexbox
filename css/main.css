@@ -97,7 +97,7 @@ textarea {
 
 /*Large Background Image*/
 html {
-    background: url(../img/bkgd2.jpg) no-repeat center center fixed;
+    background: url(../img/bkgd.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 100%;
 }
@@ -165,7 +165,7 @@ body {
     overflow: hidden;
     padding: 0;
     position: absolute;
-    width: 1px;
+    width: 2px;
 }
 
 /*
